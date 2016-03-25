@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-0,Surya TV
-http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/46/e129b606173518aed8421eb12077249e/live/suryadnd/chunklist.m3u8
-
-#EXTINF:-4,MAZHAVIL MANORAMA
-http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922668/50/293d00d6749f5d70c2d0f21fa6a6798e/live/manoramamazh/chunklist.m3u8
-
-#EXTINF:-5, Asianet
-http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/52/0fbb24de3f96a8f11ce5acc324e3c006/live/starasianetdnd/chunklist.m3u8
-
-#EXTINF:-6, KIRAN TV
-http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/48/385a7f9b9a4f363f99d96c27cd365cb2/live/kirantvdnd/chunklist.m3u8
-
-#EXTINF:-7, KIRAN WE
-http://lime.wowzahls21.yuppcdn.net/mvtoken2ideph/ABC/1458922395/41/7c6713d5cf7dc45216cc5db4c42c73e5/live/we/chunklist.m3u8
 
 #EXTINF:-9, Media One
 http://lb.vidgyor.com/mediaone/live2/chunks.m3u8
@@ -67,6 +53,20 @@ http://play-fs.amgiptv.com/vxtvlqrajtv/rajtvlq.stream/playlist.m3u8
 #EXTINF:-1,EET TV
 rtmp://37.59.17.222:1935/live_ca/eettv
 
+#EXTINF:-0,Surya TV
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/46/e129b606173518aed8421eb12077249e/live/suryadnd/chunklist.m3u8
+
+#EXTINF:-4,MAZHAVIL MANORAMA
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922668/50/293d00d6749f5d70c2d0f21fa6a6798e/live/manoramamazh/chunklist.m3u8
+
+#EXTINF:-5, Asianet
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/52/0fbb24de3f96a8f11ce5acc324e3c006/live/starasianetdnd/chunklist.m3u8
+
+#EXTINF:-6, KIRAN TV
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/48/385a7f9b9a4f363f99d96c27cd365cb2/live/kirantvdnd/chunklist.m3u8
+
+#EXTINF:-7, KIRAN WE
+http://lime.wowzahls21.yuppcdn.net/mvtoken2ideph/ABC/1458922395/41/7c6713d5cf7dc45216cc5db4c42c73e5/live/we/chunklist.m3u8
 
 #EXTINF:-1,News 24
 http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b634000.m3u8
