@@ -2,9 +2,6 @@
 #EXTINF:-0,Surya TV
 http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/46/e129b606173518aed8421eb12077249e/live/suryadnd/chunklist.m3u8
 
-#EXTINF:-1,Flowers TV
-http://live.wmncdn.net/flowerstv123/0adb0cb6b6bcae38f59b53c96673f72c.sdp/playlist.m3u8
-
 #EXTINF:-4,MAZHAVIL MANORAMA
 http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922668/50/293d00d6749f5d70c2d0f21fa6a6798e/live/manoramamazh/chunklist.m3u8
 
@@ -20,9 +17,12 @@ http://lime.wowzahls21.yuppcdn.net/mvtoken2ideph/ABC/1458922395/41/7c6713d5cf7dc
 #EXTINF:-9, Media One
 http://lb.vidgyor.com/mediaone/live2/chunks.m3u8
 
-
 #EXTINF:-8, PRAVASI CHANNEL HD
 http://live.globaliptv.net/pravasi/xbgzpknvrnqbbjlydfka/chunks.m3u8
+
+
+#EXTINF:-1,Flowers TV
+http://live.wmncdn.net/flowerstv123/0adb0cb6b6bcae38f59b53c96673f72c.sdp/playlist.m3u8
 
 #EXTINF:-2 ,kaumuditv
 http://live.wmncdn.net/kaumuditv/243b319495a3640437b42f4d49bbb107.sdp/playlist.m3u8
