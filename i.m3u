@@ -1,9 +1,21 @@
 #EXTM3U
-
-
+#EXTINF:-0,Surya TV
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/46/e129b606173518aed8421eb12077249e/live/suryadnd/chunklist.m3u8
 
 #EXTINF:-1,Flowers TV
 http://live.wmncdn.net/flowerstv123/0adb0cb6b6bcae38f59b53c96673f72c.sdp/playlist.m3u8
+
+#EXTINF:-4,MAZHAVIL MANORAMA
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922668/50/293d00d6749f5d70c2d0f21fa6a6798e/live/manoramamazh/chunklist.m3u8
+
+#EXTINF:-5, Asianet
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/52/0fbb24de3f96a8f11ce5acc324e3c006/live/starasianetdnd/chunklist.m3u8
+
+#EXTINF:-6, KIRAN TV
+http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/48/385a7f9b9a4f363f99d96c27cd365cb2/live/kirantvdnd/chunklist.m3u8
+
+#EXTINF:-6, KIRAN WE
+http://lime.wowzahls21.yuppcdn.net/mvtoken2ideph/ABC/1458922395/41/7c6713d5cf7dc45216cc5db4c42c73e5/live/we/chunklist.m3u8
 
 #EXTINF:-2 ,kaumuditv
 http://live.wmncdn.net/kaumuditv/243b319495a3640437b42f4d49bbb107.sdp/playlist.m3u8
@@ -14,8 +26,39 @@ http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
 #EXTINF:-20 ,SAKHI TV
 http://live.wmncdn.net/sakhitv1/dc0d08e5fe6e54e47190bac53aded426.sdp/playlist.m3u8?
 
+#EXTINF:-21 ,SUN Music
+http://play-fs.amgiptv.com/vxtvsunmusic/esselsunmusic.stream/playlist.m3u8
+
+#EXTINF:-21 ,RAJ Music
+http://play-fs.amgiptv.com/vxtvrajmusix/esselrajmusix.stream/playlist.m3u8
+
+#EXTINF:-6, AMN TV
+http://play-fs.amgiptv.com/vxtvamntv/amntv.stream/playlist.m3u8
+
+#EXTINF:-1,MEGA 24 Tamil
+http://play-fs.amgiptv.com/vxtvmega24/mega24.stream/playlist.m3u8
+
+#EXTINF:-1,MEGA TV Tamil
+http://play-fs.amgiptv.com/vxtvmegatv/megatv.stream/playlist.m3u8
+
+#EXTINF:-1,Zee Living Tamil
+http://zeeapp-lh.akamaihd.net/i/zliving_1@304570/index_500.m3u8
+
+#EXTINF:-1,POLIMER TV  Tamil
+http://play-fs.amgiptv.com/vxtvpolimer/polimertvlive.stream/playlist.m3u8
+
+#EXTINF:-1,JAYA MOVIE TAMIL
+http://play-fs.amgiptv.com/vxtvjayamovies/jayamovies.stream/playlist.m3u8
+
+#EXTINF:-1,KTV TAMIL
+http://play-fs.amgiptv.com/vxtvktv/esselktv.stream/playlist.m3u8
+
+#EXTINF:-1,RAJ TV TAMIL
+http://play-fs.amgiptv.com/vxtvlqrajtv/rajtvlq.stream/playlist.m3u8
+
 #EXTINF:-1,EET TV
 rtmp://37.59.17.222:1935/live_ca/eettv
+
 
 #EXTINF:-1,News 24
 http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b634000.m3u8
@@ -60,7 +103,8 @@ http://93.115.7.194:8081/liverepeater/55d8344b9278c/index.m3u8?wmsAuthSign=c2Vyd
 http://89.40.71.243:8081/liverepeater/55d9a7b3aad72/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjUzOjA3IFBNJmhhc2hfdmFsdWU9aGQwRHV0MUt0V0szajdOUE5MYkFtQT09JnZhbGlkbWludXRlcz02MA==
 
 
-
+#EXTINF:-16,Star Movies HD
+http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
 
 
 #EXTINF:-1,Asianet News 
