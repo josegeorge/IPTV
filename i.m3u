@@ -14,8 +14,15 @@ http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/52/0fbb24de3f96a8
 #EXTINF:-6, KIRAN TV
 http://lime.wowzahls2.yuppcdn.net/mvtoken2ideph/ABC/1458922395/48/385a7f9b9a4f363f99d96c27cd365cb2/live/kirantvdnd/chunklist.m3u8
 
-#EXTINF:-6, KIRAN WE
+#EXTINF:-7, KIRAN WE
 http://lime.wowzahls21.yuppcdn.net/mvtoken2ideph/ABC/1458922395/41/7c6713d5cf7dc45216cc5db4c42c73e5/live/we/chunklist.m3u8
+
+#EXTINF:-9, Media One
+http://lb.vidgyor.com/mediaone/live2/chunks.m3u8
+
+
+#EXTINF:-8, PRAVASI CHANNEL HD
+http://live.globaliptv.net/pravasi/xbgzpknvrnqbbjlydfka/chunks.m3u8
 
 #EXTINF:-2 ,kaumuditv
 http://live.wmncdn.net/kaumuditv/243b319495a3640437b42f4d49bbb107.sdp/playlist.m3u8
@@ -56,6 +63,7 @@ http://play-fs.amgiptv.com/vxtvktv/esselktv.stream/playlist.m3u8
 #EXTINF:-1,RAJ TV TAMIL
 http://play-fs.amgiptv.com/vxtvlqrajtv/rajtvlq.stream/playlist.m3u8
 
+
 #EXTINF:-1,EET TV
 rtmp://37.59.17.222:1935/live_ca/eettv
 
@@ -75,60 +83,6 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 #EXTINF:-1, MBC Bolloy Wood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
+#EXTINF:-1,9X Music
+http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 
-#EXTINF:-12,SkySports 1
-http://163.172.5.126:8081/liverepeater/55c254f3bcd94/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjM4OjE5IFBNJmhhc2hfdmFsdWU9L1pvUlJsUlZDbld1bW5DaWZ3N3dhZz09JnZhbGlkbWludXRlcz02MA==
-
-
-#EXTINF:-11,SkySports 2
-http://163.172.5.126:8081/liverepeater/565c8bc6946b6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjI1OjA2IFBNJmhhc2hfdmFsdWU9YzYzVTlGMWExcmkxMDFtQ05acHV0UT09JnZhbGlkbWludXRlcz02MA==
-
-
-#EXTINF:-13,SkySports 3
-http://163.172.14.237:8081/liverepeater/5651f6cc80ea9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQxOjMzIFBNJmhhc2hfdmFsdWU9enlsZU5CWCt3TVlBQzZPV0RDZS9hdz09JnZhbGlkbWludXRlcz02MA==
-
-#EXTINF:-14,SkySports 4
-http://93.115.7.194:8081/liverepeater/56801f7a01615/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQwOjU1IFBNJmhhc2hfdmFsdWU9c0RyRzF4blc0cTNsQk1GS3FIQ0hodz09JnZhbGlkbWludXRlcz02MA==
-
-#EXTINF:-15,SkySports 5
-http://62.210.90.57:8081/liverepeater/56bf5e4313223/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQzOjQzIFBNJmhhc2hfdmFsdWU9cGtjVHJLTGo4MmxuQTB3VUlSdFBNZz09JnZhbGlkbWludXRlcz02MA==
-
-#EXTINF:-16,SkySports News
-http://163.172.5.127:8081/liverepeater/56db06c947423/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQ0OjI1IFBNJmhhc2hfdmFsdWU9WHJWOW1xR0VVeFlIUHNYUEdLT3ByZz09JnZhbGlkbWludXRlcz02MA==
-
-#EXTINF:-16,BT Sport 1
-http://93.115.7.194:8081/liverepeater/55d8344b9278c/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjUyOjEwIFBNJmhhc2hfdmFsdWU9T3JSb2VMUGwya0NMem51enJRNFc1UT09JnZhbGlkbWludXRlcz02MA==
-
-#EXTINF:-16,BT Sport 2
-http://89.40.71.243:8081/liverepeater/55d9a7b3aad72/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjUzOjA3IFBNJmhhc2hfdmFsdWU9aGQwRHV0MUt0V0szajdOUE5MYkFtQT09JnZhbGlkbWludXRlcz02MA==
-
-
-#EXTINF:-16,Star Movies HD
-http://112.197.2.135:1935/colive/C001_HD_2/chunklist.m3u8
-
-
-#EXTINF:-1,Asianet News 
-https://www.youtube.com/watch?v=zpqKpWNCdJ0
-
-#EXTINF:-1,REPORTER 
-https://www.youtube.com/watch?v=1kgV43YQ0BM
-
-#EXTINF:-1,Media One 
-https://www.youtube.com/watch?v=9OZIHOBae8w
-
-#EXTINF:-1,Asianet News
-https://www.youtube.com/embed/zpqKpWNCdJ0
-
-
-#EXTINF:-1,India Today
-https://www.youtube.com/watch?v=0EFFag29JWg
-
-
-#EXTINF:-1,Media one
-https://www.youtube.com/embed/9OZIHOBae8w
-
-#EXTINF:-1,ReporterTv
-https://www.youtube.com/embed/1kgV43YQ0BM
-
-#EXTINF:-1,JanamTv
-https://www.youtube.com/embed/wRA85gh1LxQ
