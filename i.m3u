@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Asianet News 
-https://www.youtube.com/watch?v=zpqKpWNCdJ0
 
-#EXTINF:-1,REPORTER 
-https://www.youtube.com/watch?v=1kgV43YQ0BM
-
-#EXTINF:-1,Media One 
-https://www.youtube.com/watch?v=9OZIHOBae8w
 
 #EXTINF:-1,Flowers TV
 http://live.wmncdn.net/flowerstv123/0adb0cb6b6bcae38f59b53c96673f72c.sdp/playlist.m3u8
@@ -21,50 +14,71 @@ http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
 #EXTINF:-20 ,SAKHI TV
 http://live.wmncdn.net/sakhitv1/dc0d08e5fe6e54e47190bac53aded426.sdp/playlist.m3u8?
 
-
-#EXTINF:-1,9Xe TV
-http://46.249.213.87/iPhone/HLS_TS/broadcast/9xe-tablet.3gp/9xe-tablet.3gp-mr497k.m3u8
-
-#EXTINF:-1,9X Jalwa TV
-http://9xm-mod-live-env.elasticbeanstalk.com/hlslive/9xjalwa_all_0.m3u8?adsid=1447762788690560&
-
-#EXTINF:-1,Bollywood Movies
-http://46.249.213.87/iPhone/HLS_TS/broadcast/bollywood_movies-tablet.3gp.m3u8
-
 #EXTINF:-1,EET TV
 rtmp://37.59.17.222:1935/live_ca/eettv
 
+#EXTINF:-1,News 24
+http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b634000.m3u8
+
+#EXTINF:-1, India News
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+#EXTINF:-1, IBN LookMat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:-1, MBC Bolloy Wood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+
+#EXTINF:-12,SkySports 1
+http://163.172.5.126:8081/liverepeater/55c254f3bcd94/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjM4OjE5IFBNJmhhc2hfdmFsdWU9L1pvUlJsUlZDbld1bW5DaWZ3N3dhZz09JnZhbGlkbWludXRlcz02MA==
+
+
+#EXTINF:-11,SkySports 2
+http://163.172.5.126:8081/liverepeater/565c8bc6946b6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjI1OjA2IFBNJmhhc2hfdmFsdWU9YzYzVTlGMWExcmkxMDFtQ05acHV0UT09JnZhbGlkbWludXRlcz02MA==
+
+
+#EXTINF:-13,SkySports 3
+http://163.172.14.237:8081/liverepeater/5651f6cc80ea9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQxOjMzIFBNJmhhc2hfdmFsdWU9enlsZU5CWCt3TVlBQzZPV0RDZS9hdz09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-14,SkySports 4
+http://93.115.7.194:8081/liverepeater/56801f7a01615/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQwOjU1IFBNJmhhc2hfdmFsdWU9c0RyRzF4blc0cTNsQk1GS3FIQ0hodz09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-15,SkySports 5
+http://62.210.90.57:8081/liverepeater/56bf5e4313223/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQzOjQzIFBNJmhhc2hfdmFsdWU9cGtjVHJLTGo4MmxuQTB3VUlSdFBNZz09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-16,SkySports News
+http://163.172.5.127:8081/liverepeater/56db06c947423/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjQ0OjI1IFBNJmhhc2hfdmFsdWU9WHJWOW1xR0VVeFlIUHNYUEdLT3ByZz09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-16,BT Sport 1
+http://93.115.7.194:8081/liverepeater/55d8344b9278c/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjUyOjEwIFBNJmhhc2hfdmFsdWU9T3JSb2VMUGwya0NMem51enJRNFc1UT09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-16,BT Sport 2
+http://89.40.71.243:8081/liverepeater/55d9a7b3aad72/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDEyOjUzOjA3IFBNJmhhc2hfdmFsdWU9aGQwRHV0MUt0V0szajdOUE5MYkFtQT09JnZhbGlkbWludXRlcz02MA==
+
+
+
+
+
+#EXTINF:-1,Asianet News 
+https://www.youtube.com/watch?v=zpqKpWNCdJ0
+
+#EXTINF:-1,REPORTER 
+https://www.youtube.com/watch?v=1kgV43YQ0BM
+
+#EXTINF:-1,Media One 
+https://www.youtube.com/watch?v=9OZIHOBae8w
+
+#EXTINF:-1,Asianet News
+https://www.youtube.com/embed/zpqKpWNCdJ0
 
 
 #EXTINF:-1,India Today
 https://www.youtube.com/watch?v=0EFFag29JWg
 
-#EXTINF:-1,News 24
-http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/chunklist_b634000.m3u8
-
-#EXTINF:-1,UK: ESPN HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/138.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 1
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/17.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 2
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/18.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 3
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/220.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 4
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/19.m3u8
-#EXTINF:-1,UK: Sky Uk Sport HD 5
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/129.m3u8
-#EXTINF:-1,UK: Sky Uk Sport F1 HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/221.m3u8
-#EXTINF:-1,UK: Sky Uk Sports News HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/174.m3u8
-#EXTINF:-1,UK: Sky Uk BT Sport 1 HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/15.m3u8
-#EXTINF:-1,UK: Sky Uk BT Sport 2 HD
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/16.m3u8
-
-#EXTINF:-1,Asianet News
-https://www.youtube.com/embed/zpqKpWNCdJ0
 
 #EXTINF:-1,Media one
 https://www.youtube.com/embed/9OZIHOBae8w
@@ -74,232 +88,3 @@ https://www.youtube.com/embed/1kgV43YQ0BM
 
 #EXTINF:-1,JanamTv
 https://www.youtube.com/embed/wRA85gh1LxQ
-
-#EXTINF:-1,Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:-1, MBC Bolloy Wood
-http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1, MBC Bollywood
-rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
-
-#EXTINF:-1, Care World
-http://live.careworldtv.com:80/live/careworld/playlist.m3u8
-
-#EXTINF:-1, P7 News
-http://edge-ap2.cloudfrontcdn.in:1935/vivo/1_channel0.stream_aac/playlist.m3u8
-
-#EXTINF:-1, India News
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-
-#EXTINF:-1, DDN News
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive/ddnewslive1.m3u8
-
-#EXTINF:-1, IBN LookMat
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-
-#EXTINF:-1,hindi movies
-http://cdn.rtmp.webverbosity.com:1935/liveedge2/hinditv_verbosityConsulting/playlist.m3u8
-#EXTINF:-1,Hindi Desi Bollywood 
-http://50.7.77.114:8296/
-#EXTINF:-1,hindi movies
-http://46.249.213.93/iPhone/broadcast/hindimovies-tablet.3gp/hindimovies-tablet.3gp-mr497k.m3u8
-#EXTINF:-1,Hindi Classic: Melodious
-http://188.138.16.143:8140/
-#EXTINF:-1,Hindi Movie 3
-http://46.249.213.93/iPhone/broadcast/filmsofindia-iphone.3gp.m3u8?trackingid=4361800000
-#EXTINF:-1,Hidi - Bollywood Cinema 2
-http://46.249.213.87/iPhone/broadcast/bollywoodcinema2-iphone.3gp.m3u8
-
-#EXTINF:-1,zee aflam 
-http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w2136840971.m3u8?wmsAuthSign
-#EXTINF:-1,Zee Primer
-http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8
-
-#EXTINF:-1, AAJ Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/lmil/live/aajtak.smil/playlist.m3u8
-#EXTINF:-1, AAJ News
-rtsp://42.83.84.215/channel22.sdp?worldoftv.wpka.mobi
-
-#EXTINF:-1, Zoom
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1427420478&a=GB&h=b93483ff2c704c5f43db4df338f6c20f
-#EXTINF:-1, Zetc
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1427420507&a=GB&h=46c7cff34f0db780afb7fee0fa395e7c
-
-#EXTINF:0,UK: ITV 2
-http://top-iptv.zapto.org:8000/live/adem/adem/644.ts
-#EXTINF:0,UK: ITV 4
-http://top-iptv.zapto.org:8000/live/adem/adem/641.ts
-#EXTINF:0,UK: ITV 3
-
-#EXTINF:-1,setanta irland
-http://tv.online.tm/hls/ch004_md/index.m3u8
-
-#EXTINF:0,UK: SKY NEWS
-http://top-iptv.zapto.org:8000/live/adem/adem/938.ts
-
-#EXTINF:0,UK: RTE 2
-http://top-iptv.zapto.org:8000/live/adem/adem/948.ts
-
-#EXTINF:0,UK: RTE 1
-http://top-iptv.zapto.org:8000/live/adem/adem/947.ts
-
-#EXTINF:0,UK:SKY Movies Action HD
-http://top-iptv.zapto.org:8000/live/adem/adem/752.ts
-
-#EXTINF:0,UK: SKY Movies Comedy HD
-http://top-iptv.zapto.org:8000/live/adem/adem/640.ts
-#EXTINF:0,UK: Sky One HD
-http://top-iptv.zapto.org:8000/live/adem/adem/710.ts
-#EXTINF:0,UK: movies4
-http://top-iptv.zapto.org:8000/live/adem/adem/709.ts
-#EXTINF:0,UK: Sky Movies SciFi
-http://top-iptv.zapto.org:8000/live/adem/adem/708.ts
-#EXTINF:0,UK: Sky Movies Family HD
-http://top-iptv.zapto.org:8000/live/adem/adem/707.ts
-#EXTINF:0,UK: SKY Movies Disney HD
-http://top-iptv.zapto.org:8000/live/adem/adem/648.ts
-#EXTINF:0,UK: Sky Atlantic HD
-http://top-iptv.zapto.org:8000/live/adem/adem/753.ts
-#EXTINF:0,UK: SKY 2
-http://top-iptv.zapto.org:8000/live/adem/adem/735.ts
-#EXTINF:0,uk:Sky Premiere
-http://top-iptv.zapto.org:8000/live/adem/adem/537.ts
-#EXTINF:0,uk:Sky movies Thriller
-http://top-iptv.zapto.org:8000/live/adem/adem/538.ts
-#EXTINF:0,UK:Sky Sky Movies Greats
-http://top-iptv.zapto.org:8000/live/adem/adem/539.ts
-#EXTINF:0,UK:Sky movies Sci-Fi
-http://top-iptv.zapto.org:8000/live/adem/adem/540.ts
-#EXTINF:0,UK: Sky family
-http://top-iptv.zapto.org:8000/live/adem/adem/541.ts
-#EXTINF:0,UK: Sky F1
-http://top-iptv.zapto.org:8000/live/adem/adem/542.ts
-#EXTINF:0,UK: Sky drama
-http://top-iptv.zapto.org:8000/live/adem/adem/543.ts
-#EXTINF:0,UK: Sky Comedy
-http://top-iptv.zapto.org:8000/live/adem/adem/544.ts
-#EXTINF:0,UK: Sky Atlantic
-http://top-iptv.zapto.org:8000/live/adem/adem/545.ts
-#EXTINF:0,UK: Sky Action
-http://top-iptv.zapto.org:8000/live/adem/adem/546.ts
-
-
-
-#EXTINF:0,UK: BT- EURO
-http://top-iptv.zapto.org:8000/live/adem/adem/956.ts
-#EXTINF:0,Syfy HD
-http://top-iptv.zapto.org:8000/live/adem/adem/457.ts
-#EXTINF:0,The Vault
-http://top-iptv.zapto.org:8000/live/adem/adem/455.ts
-#EXTINF:0,CBeebies
-http://top-iptv.zapto.org:8000/live/adem/adem/458.ts
-http://top-iptv.zapto.org:8000/live/adem/adem/643.ts
-#EXTINF:0,uk:CBS Reality
-http://top-iptv.zapto.org:8000/live/adem/adem/646.ts
-#EXTINF:0,UK: ITV 1
-http://top-iptv.zapto.org:8000/live/adem/adem/645.ts
-#EXTINF:0,UK: more4
-http://top-iptv.zapto.org:8000/live/adem/adem/740.ts
-#EXTINF:0,UK: Universal
-http://top-iptv.zapto.org:8000/live/adem/adem/731.ts
-#EXTINF:0,UK: TV 3
-http://top-iptv.zapto.org:8000/live/adem/adem/734.ts
-#EXTINF:0,UK: TLC
-http://top-iptv.zapto.org:8000/live/adem/adem/736.ts
-#EXTINF:0,UK : alibi
-http://top-iptv.zapto.org:8000/live/adem/adem/741.ts
-#EXTINF:0,UK: YESTERDAY
-http://top-iptv.zapto.org:8000/live/adem/adem/827.ts
-#EXTINF:0,UK: REALLY
-http://top-iptv.zapto.org:8000/live/adem/adem/826.ts
-#EXTINF:0,UK: PICK
-http://top-iptv.zapto.org:8000/live/adem/adem/823.ts
-#EXTINF:0,UK: IRISHTV
-http://top-iptv.zapto.org:8000/live/adem/adem/828.ts
-#EXTINF:0,UK: GOOD FOOD
-http://top-iptv.zapto.org:8000/live/adem/adem/829.ts
-#EXTINF:0,UK: CCEXTRA
-http://top-iptv.zapto.org:8000/live/adem/adem/825.ts
-#EXTINF:0,UK : SKU ARTS 1
-http://top-iptv.zapto.org:8000/live/adem/adem/824.ts
-#EXTINF:0,UK: watch
-http://top-iptv.zapto.org:8000/live/adem/adem/738.ts
-#EXTINF:0,UK: dmax
-http://top-iptv.zapto.org:8000/live/adem/adem/729.ts
-#EXTINF:0,UK: MTV Classic
-http://top-iptv.zapto.org:8000/live/adem/adem/728.ts
-#EXTINF:0,UK: movie comedy
-http://top-iptv.zapto.org:8000/live/adem/adem/730.ts
-#EXTINF:0,UK: GOLD
-http://top-iptv.zapto.org:8000/live/adem/adem/737.ts
-#EXTINF:0,UK: mtvdance
-http://top-iptv.zapto.org:8000/live/adem/adem/733.ts
-#EXTINF:0,UK: Discovery Turbo
-http://top-iptv.zapto.org:8000/live/adem/adem/739.ts
-#EXTINF:0,UK: dave
-http://top-iptv.zapto.org:8000/live/adem/adem/742.ts
-#EXTINF:0,UK: VINTAGE
-http://top-iptv.zapto.org:8000/live/adem/adem/950.ts
-#EXTINF:0,UK: ULSTER TV
-http://top-iptv.zapto.org:8000/live/adem/adem/940.ts
-#EXTINF:0,UK: TURE ENTERTAINMENT
-http://top-iptv.zapto.org:8000/live/adem/adem/944.ts
-#EXTINF:0,UK: TURE DRAMA
-http://top-iptv.zapto.org:8000/live/adem/adem/943.ts
-#EXTINF:0,UK: TCM
-http://top-iptv.zapto.org:8000/live/adem/adem/941.ts
-#EXTINF:0,UK: SYFY 2
-http://top-iptv.zapto.org:8000/live/adem/adem/936.ts
-
-#EXTINF:0,UK: QUEST
-http://top-iptv.zapto.org:8000/live/adem/adem/935.ts
-#EXTINF:0,UK: MAGIC
-http://top-iptv.zapto.org:8000/live/adem/adem/951.ts
-#EXTINF:0,UK: LIFETIME
-http://top-iptv.zapto.org:8000/live/adem/adem/942.ts
-#EXTINF:0,UK: ITV BE
-http://top-iptv.zapto.org:8000/live/adem/adem/945.ts
-#EXTINF:0,UK: EXTREAM SPORTS
-http://top-iptv.zapto.org:8000/live/adem/adem/949.ts
-#EXTINF:0,UK: CBS Action
-http://top-iptv.zapto.org:8000/live/adem/adem/934.ts
-#EXTINF:0,UK: C 4LOW
-http://top-iptv.zapto.org:8000/live/adem/adem/933.ts
-#EXTINF:0,UK: BLOOMBERG
-http://top-iptv.zapto.org:8000/live/adem/adem/937.ts
-#EXTINF:0,UK: BBC NEWS
-http://top-iptv.zapto.org:8000/live/adem/adem/939.ts
-#EXTINF:0,UK: UNI
-http://top-iptv.zapto.org:8000/live/adem/adem/946.ts
-#EXTINF:0,UK: 5USA | Channel 5
-http://top-iptv.zapto.org:8000/live/adem/adem/732.ts
-#EXTINF:0,UK: Sky sports 1
-http://top-iptv.zapto.org:8000/live/adem/adem/536.ts
-#EXTINF:0,UK: Sky sports 2
-http://top-iptv.zapto.org:8000/live/adem/adem/535.ts
-#EXTINF:0,UK: Sky sports 3
-http://top-iptv.zapto.org:8000/live/adem/adem/534.ts
-#EXTINF:0,UK: Sky sports 5
-http://top-iptv.zapto.org:8000/live/adem/adem/532.ts
-#EXTINF:0,UK: Sky sports 4
-http://top-iptv.zapto.org:8000/live/adem/adem/533.ts
-#EXTINF:0,UK: mutv
-http://top-iptv.zapto.org:8000/live/adem/adem/822.ts
-#EXTINF:0,UK: lfctv
-http://top-iptv.zapto.org:8000/live/adem/adem/820.ts
-#EXTINF:0,UK: chelseatv
-http://top-iptv.zapto.org:8000/live/adem/adem/821.ts
-
-#EXTINF:0,UK: Eurosport 2
-http://top-iptv.zapto.org:8000/live/adem/adem/547.ts
-#EXTINF:0,UK: Eurosport 1
-http://top-iptv.zapto.org:8000/live/adem/adem/548.ts
-#EXTINF:0,UK: BT-sport2
-http://top-iptv.zapto.org:8000/live/adem/adem/549.ts
-#EXTINF:0,UK: BT-sport1
-http://top-iptv.zapto.org:8000/live/adem/adem/550.ts
-
-#EXTINF:0,BLOOMBERG
-http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
